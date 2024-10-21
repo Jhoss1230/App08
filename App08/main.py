@@ -51,7 +51,7 @@ def main(page: ft.Page):
 
     def playNivel7(e):
         detener()
-        Nivel8.play()
+        Nivel7.play()
 
     def playNivel8(e):
         detener()
